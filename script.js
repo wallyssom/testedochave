@@ -64,15 +64,15 @@
             // Teste para exibir a foto masculina de acordo com a idade calculada
             if (idade >= 0 && idade < 12) {
               // Criança
-              img.setAttribute('src','https://dl.dropboxusercontent.com/s/6antm3qtn6gxl7l/RoundPhoto_Jul252020_055553.png?dl=0');
+              img.setAttribute('src','https://dl.dropbox.com/s/okea4p2gwb2t0d8/RoundPhoto_Jan282022_045257.png?dl=0');
               legenda = 'O Chaves'; // Define a legenda da foto
             } else if (idade < 21) {
               // Jovem
-              img.setAttribute('src','http://nandoangelo.com.br/projetinhos/exe016-teste-do-chaves/img/chaves-jovem-masc.jpg');
+              img.setAttribute('src','https://dl.dropbox.com/s/4w1ml8phgzlusig/RoundPhoto_Jan282022_045601.png?dl=0');
               legenda = 'O Kiko'; // ...
             } else if (idade < 50) {
               // Adulto
-              img.setAttribute('src','http://nandoangelo.com.br/projetinhos/exe016-teste-do-chaves/img/chaves-adulto-masc.jpg');
+              img.setAttribute('src','https://dl.dropbox.com/s/2qfjoq152z56ilc/RoundPhoto_Jan282022_050059.png?dl=0');
               legenda = 'O Seu Madruga';
             } else {
               // Idoso
@@ -88,7 +88,7 @@
             // Teste para exibir a foto feminina de acordo com a idade calculada
             if (idade >= 0 && idade < 12) {
               // Criança
-              img.setAttribute('src','http://nandoangelo.com.br/projetinhos/exe016-teste-do-chaves/img/chaves-crianca-fem.jpg');
+              img.setAttribute('src','dl://dl.dropbox.com/s/jtjtlsbwriqf40a/RoundPhoto_Jan282022_045621.png?dl=0');
               legenda = 'A Chiquinha'; // Definindo a legenda da foto
             } else if (idade < 21) {
               // Jovem
@@ -96,7 +96,7 @@
               legenda = 'A Paty'; // ...
             } else if (idade < 50) {
               // Adulto
-              img.setAttribute('src','http://nandoangelo.com.br/projetinhos/exe016-teste-do-chaves/img/chaves-adulto-fem.jpg');
+              img.setAttribute('src','https://dl.dropbox.com/s/xhroejcddfzll3v/RoundPhoto_Jan282022_045822.png?dl=0');
               legenda = 'A Dona Florinda';
             } else {
               // Idoso
