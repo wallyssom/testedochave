@@ -76,7 +76,7 @@
               legenda = 'O Seu Madruga';
             } else {
               // Idoso
-              img.setAttribute('src','http://nandoangelo.com.br/projetinhos/exe016-teste-do-chaves/img/chaves-idoso-masc.jpg');
+              img.setAttribute('src','https://dl.dropbox.com/s/a90psojt6kj5yvg/RoundPhoto_Jan282022_172955.png?dl=0');
               legenda = 'O Jaiminho';
             }
 
@@ -88,11 +88,11 @@
             // Teste para exibir a foto feminina de acordo com a idade calculada
             if (idade >= 0 && idade < 12) {
               // Criança
-              img.setAttribute('src','dl://dl.dropbox.com/s/jtjtlsbwriqf40a/RoundPhoto_Jan282022_045621.png?dl=0');
+              img.setAttribute('src','https://dl.dropbox.com/s/jtjtlsbwriqf40a/RoundPhoto_Jan282022_045621.png?dl=0');
               legenda = 'A Chiquinha'; // Definindo a legenda da foto
             } else if (idade < 21) {
               // Jovem
-              img.setAttribute('src','http://nandoangelo.com.br/projetinhos/exe016-teste-do-chaves/img/chaves-jovem-fem.jpg');
+              img.setAttribute('src','https://dl.dropbox.com/s/x5k0gn2yknkt6pb/RoundPhoto_Jan282022_173151.png?dl=0');
               legenda = 'A Paty'; // ...
             } else if (idade < 50) {
               // Adulto
@@ -100,7 +100,7 @@
               legenda = 'A Dona Florinda';
             } else {
               // Idoso
-              img.setAttribute('src','http://nandoangelo.com.br/projetinhos/exe016-teste-do-chaves/img/chaves-idoso-fem.jpg');
+              img.setAttribute('src','https://dl.dropbox.com/s/plvfb283u9oirlx/RoundPhoto_Jan282022_173029.png?dl=0');
               legenda = 'A Dona Neves';
             }
           }
