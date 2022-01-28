@@ -96,7 +96,7 @@
               legenda = 'A Paty'; // ...
             } else if (idade < 50) {
               // Adulto
-              img.setAttribute('src','https://dl.dropbox.com/s/xhroejcddfzll3v/RoundPhoto_Jan282022_045822.png?dl=0');
+              img.setAttribute('src','https://dl.dropbox.com/s/umxmh5vwa50qr5u/RoundPhoto_Jan282022_045701.png?dl=0');
               legenda = 'A Dona Florinda';
             } else {
               // Idoso
