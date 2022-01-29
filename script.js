@@ -64,7 +64,7 @@
             // Teste para exibir a foto masculina de acordo com a idade calculada
             if (idade >= 0 && idade < 12) {
               // Criança
-              img.setAttribute('src','https://dl.dropboxusercontent.com/s/mu9qxfar3b2btgn/VID-20220123-WA0083.mp4?dl=0');
+              img.setAttribute('src','https://dl.dropbox.com/s/okea4p2gwb2t0d8/RoundPhoto_Jan282022_045257.png?dl=0');
               legenda = 'O Chaves'; // Define a legenda da foto
             } else if (idade < 21) {
               // Jovem
